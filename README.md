@@ -1,11 +1,1 @@
-"D:\Git\p1.jpeg"
-"D:\Git\p2.jpeg"
-"D:\Git\p3.jpeg"
-"D:\Git\p4.jpeg"
-"D:\Git\p5.jpeg"
-"D:\Git\p7.jpeg"
-"D:\Git\p8.jpeg"
-"D:\Git\p9.jpeg"
-"D:\Git\p10.jpeg
-"D:\Git\p11.jpeg"
-"D:\Git\p12.jpeg"
+
