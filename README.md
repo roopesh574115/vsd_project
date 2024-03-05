@@ -24,7 +24,6 @@
 ![image](https://github.com/roopesh574115/vsd_project/assets/160587340/586048a2-f005-4979-bf2b-dea9c75f33f1)
 ![image](https://github.com/roopesh574115/vsd_project/assets/160587340/2bd52954-8810-4ad8-bf95-f63c9508f7ed)
 ![image](https://github.com/roopesh574115/vsd_project/assets/160587340/49d4eea1-3af2-48ac-91f6-3a3668f411c9)
-![image](https://github.com/roopesh574115/vsd_project/assets/160587340/ee52d7d8-0b43-4ffd-82c3-4404c46584eb)
 
 
 
